@@ -4,7 +4,7 @@ VulnMitigator is a **PyQt6 GUI tool** that uses **Q-learning** to recommend the 
 
 ---
 
-![VulnMitigator-RL-Mitigation-Planner-ScreenShot](ScrenShot.png)
+![ScreenShot](ScrenShot.png)
 
 ## Features
 
